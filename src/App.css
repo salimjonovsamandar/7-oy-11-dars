@@ -1,0 +1,47 @@
+.contain {
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  margin-top: 50px;
+}
+.Form {
+  display: flex;
+  align-items: center;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 3px;
+  outline-color: none;
+}
+.button {
+  padding: 10px 20px;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.input {
+  border: none;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  width: 100%;
+  border-radius: 10px;
+}
+.wrapper {
+  margin-top: 10px;
+  border: 1px solid black;
+  padding: 3px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.btn {
+  padding: 10px;
+  background-color: blue;
+  border-radius: 10px;
+  border: none;
+  color: white;
+}
